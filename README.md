@@ -66,38 +66,46 @@ return sum;
 ## Общее задание 
 # Установка среды
 Лабораторная работа выполняется в ОС Ubuntu 26.04
+
 ![](./photo/clang.jpg)
 ![](./photo/opt.jpg)
 ![](./photo/grap.jpg)
 
 # Работа с AST
+
 ![](./photo/clang-Xclang.jpeg)
 
 # Генерация LLVM IR
 Генерация LLVM IR
+
 ![](./photo/mainllcom.jpg)
 ![](./photo/mainll.jpg)
 
 
 Генерация LLVM IR -O0
+
 ![](./photo/main00com.jpg)
 ![](./photo/main00.jpg)
 
 
 Генерация LLVM IR -O2
+
 ![](./photo/main02com.jpg)
 ![](./photo/main02.jpg)
 
 
 Сравнениие разных генераций LLVM IR
+
 ![](./photo/diffmain.jpg)
 
 # Оптимизация IR
+
 ![](./photo/optim.jpg)
 ![](./photo/optimrez.jpg)
 
 
 Сравнение с оптимизацией и нет
+
 ![](./photo/diffopt.jpg)
 
 
@@ -105,20 +113,28 @@ return sum;
 
 
 # Построение CFG
+
 ![](./photo/CFGcom.jpg)
 ![](./photo/CGFmain.jpg)
 ![](./photo/CGFsq.jpg)
 
 ## Индивидуальное задание 
 # IR для -O0.
+
 ![](./photo/)
 ![](./photo/)
+
+
 # -indvars, -licm, -loop-unroll
+
 ![](./photo/)
 ![](./photo/)
+
 # CFG
+
 ![](./photo/)
 ![](./photo/)
+
 # Отличие while от do-while в IR 
 
 ## Выводы
