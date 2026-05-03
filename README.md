@@ -78,22 +78,34 @@ return sum;
 ![](./photo/mainllcom.jpg)
 ![](./photo/mainll.jpg)
 
+
 Генерация LLVM IR -O0
 ![](./photo/main00com.jpg)
 ![](./photo/main00.jpg)
 
+
 Генерация LLVM IR -O2
 ![](./photo/main02com.jpg)
 ![](./photo/main02.jpg)
+
+
+Сравнениие разных генераций LLVM IR
 ![](./photo/diffmain.jpg)
 
 # Оптимизация IR
 ![](./photo/optim.jpg)
 ![](./photo/optimrez.jpg)
+
+
+Сравнение с оптимизацией и нет
 ![](./photo/diffopt.jpg)
 
+
+Список оптимизаций: 
+
+
 # Построение CFG
-![](./photo/CGFcom.jpg)
+![](./photo/CFGcom.jpg)
 ![](./photo/CGFmain.jpg)
 ![](./photo/CGFsq.jpg)
 
